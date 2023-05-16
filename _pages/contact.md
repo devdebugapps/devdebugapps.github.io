@@ -2,6 +2,7 @@
 layout: default
 title: Contact Us
 permalink: /contact/
+---
 
 # Contact Us
 
@@ -29,4 +30,3 @@ Connect with us on social media to stay updated on the latest news, articles, an
 
 We look forward to hearing from you and will get back to you as soon as possible.
 
----
