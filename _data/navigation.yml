@@ -3,4 +3,4 @@ main:
   - title: "About"
     url: /about/
   - title: "Contact"
-    url: docs/_pages/contact.md
+    url: /contact/
