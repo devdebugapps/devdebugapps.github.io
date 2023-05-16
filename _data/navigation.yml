@@ -1,6 +1,6 @@
 # main links
 main:
   - title: "About"
-    url: /_pages/about.md
+    url: /about/
   - title: "Contact"
-    url: /_pages/contact.md
+    url: docs/_pages/contact.md
