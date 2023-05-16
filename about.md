@@ -3,6 +3,7 @@ layout: default
 title: About Us
 permalink: /about/
 
+---
 # About Us
 
 Welcome to our website! We are a dedicated team passionate about providing valuable information and resources to our visitors.
@@ -21,4 +22,3 @@ We value your feedback and are always eager to hear from our readers. If you hav
 
 Thank you for visiting our website. We hope you find our content helpful and enjoyable!
 
----
