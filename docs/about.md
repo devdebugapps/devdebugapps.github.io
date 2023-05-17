@@ -1,8 +1,6 @@
 ---
-layout: default
-title: About Us
+title: "About Us"
 permalink: /about/
-author_profile: true
 ---
 # About Us
 
