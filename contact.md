@@ -2,6 +2,7 @@
 layout: default
 title: Contact Us
 permalink: /contact/
+author_profile: true
 ---
 
 # Contact Us
